@@ -5,6 +5,7 @@ const Header = () => {
   return (
     <>
     <div className='flex justify-end gap-16'>
+      <Link href='/Home'>Home</Link>
       <Link href='/Projects'>Projects</Link>
       <Link href='/Resume'>Resume</Link>
       <Link href='/Contact'>Contact</Link>
