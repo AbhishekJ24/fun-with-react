@@ -4,7 +4,7 @@ import Link from 'next/link'
 const Header = () => {
   return (
     <>
-    <div className='flex justify-end gap-16'>
+    <div className='flex justify-end gap-20 p-8'>
       <Link href='/Home'>Home</Link>
       <Link href='/Projects'>Projects</Link>
       <Link href='/Resume'>Resume</Link>
