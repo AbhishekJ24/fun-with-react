@@ -4,7 +4,7 @@ import Link from 'next/link'
 const Header = () => {
   return (
     <>
-      <div className='flex justify-between p-10 mb-20'>
+      <div className='flex justify-between p-10'>
 
         <div className=''>
           <a href='/'> <img id='logo' className='invert h-12' src='logo.png' alt='not found' /> </a>
