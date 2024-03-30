@@ -1,11 +1,11 @@
-import React from 'react'
+import React from 'react';
 
 const Footer = () => {
   return (
-    <>
-      <div className='flex items-center justify-center absolute bottom-2 w-full'>Copyright Abhishek Joshi. All rights reserved</div>
-    </>
-  )
-}
+    <footer className='fixed bottom-0 left-0 w-full p-10 h-10 backdrop-blur-3xl'>
+      <p>&copy; 2024 Abhishek Joshi</p>
+    </footer>
+  );
+};
 
-export default Footer
+export default Footer;

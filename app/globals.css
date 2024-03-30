@@ -45,6 +45,10 @@ body {
   font-weight: 600;
 }
 
-#about {
+#introduction {
   width: 800px;
+}
+
+#project-cont{
+  width: 1100px;
 }
