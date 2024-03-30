@@ -12,7 +12,7 @@ const Header = () => {
         <div className='flex items-center gap-12'>
           <a className='hover:scale-110' href="/">Home</a>
           <Link className='hover:scale-110' href='/Projects'>Projects</Link>
-          <Link className='hover:scale-110' href='/Resume'>Resume</Link>
+          <Link className='hover:scale-110' href='/Experience'>Experience</Link>
           <Link className='hover:scale-110' href='/Contact'>Contact</Link>
         </div>
       </div>
